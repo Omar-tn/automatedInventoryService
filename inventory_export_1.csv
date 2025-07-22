@@ -1,0 +1,25 @@
+Handle,Title,Option1 Name,Option1 Value,Option2 Name,Option2 Value,Option3 Name,Option3 Value,SKU,HS Code,COO,Shop location,My Custom Location,Snow City Warehouse
+the-complete-snowboard,The Complete Snowboard,Color,Ice,,,,,"",,,10,not stocked,not stocked
+the-minimal-snowboard,The Minimal Snowboard,Title,Default Title,,,,,"",,,50,not stocked,not stocked
+the-complete-snowboard,The Complete Snowboard,Color,Dawn,,,,,"",,,10,not stocked,not stocked
+the-archived-snowboard,The Archived Snowboard,Title,Default Title,,,,,"",,,50,not stocked,not stocked
+the-complete-snowboard,The Complete Snowboard,Color,Powder,,,,,"",,,10,not stocked,not stocked
+the-draft-snowboard,The Draft Snowboard,Title,Default Title,,,,,"",,,20,not stocked,not stocked
+the-complete-snowboard,The Complete Snowboard,Color,Electric,,,,,"",,,10,not stocked,not stocked
+the-complete-snowboard,The Complete Snowboard,Color,Sunset,,,,,"",,,10,not stocked,not stocked
+the-out-of-stock-snowboard,The Out of Stock Snowboard,Title,Default Title,,,,,"",,,0,not stocked,not stocked
+the-hidden-snowboard,The Hidden Snowboard,Title,Default Title,,,,,"",,,50,not stocked,not stocked
+the-collection-snowboard-hydrogen,The Collection Snowboard: Hydrogen,Title,Default Title,,,,,"",,,50,not stocked,not stocked
+the-videographer-snowboard,The Videographer Snowboard,Title,Default Title,,,,,"",,,50,not stocked,not stocked
+selling-plans-ski-wax,Selling Plans Ski Wax,Title,Selling Plans Ski Wax,,,,,"",,,10,not stocked,not stocked
+selling-plans-ski-wax,Selling Plans Ski Wax,Title,Special Selling Plans Ski Wax,,,,,"",,,10,not stocked,not stocked
+selling-plans-ski-wax,Selling Plans Ski Wax,Title,Sample Selling Plans Ski Wax,,,,,"",,,10,not stocked,not stocked
+the-compare-at-price-snowboard,The Compare at Price Snowboard,Title,Default Title,,,,,"",,,10,not stocked,not stocked
+the-multi-location-snowboard,The Multi-location Snowboard,Title,Default Title,,,,,"",,,50,50,not stocked
+the-collection-snowboard-oxygen,The Collection Snowboard: Oxygen,Title,Default Title,,,,,"",,,50,not stocked,not stocked
+the-multi-managed-snowboard,The Multi-managed Snowboard,Title,Default Title,,,,,sku-managed-1,,,50,not stocked,50
+the-3p-fulfilled-snowboard,The 3p Fulfilled Snowboard,Title,Default Title,,,,,sku-hosted-1,,,not stocked,0,20
+the-collection-snowboard-liquid,The Collection Snowboard: Liquid,Title,Default Title,,,,,"",,,50,not stocked,not stocked
+mouse-hp,Mouse HP,Title,Default Title,,,,,"",,,1,0,not stocked
+keyboard,Keyboard,Title,Default Title,,,,,"",,,1,0,not stocked
+wool-coat,Wool Coat,Size,Medium,Color,White,,,coat-wool,,,1,0,not stocked
