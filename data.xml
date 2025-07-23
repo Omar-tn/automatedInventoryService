@@ -1,0 +1,157 @@
+<?xml version='1.0' encoding='utf-8'?>
+<inventory xmlns="http://www.demandware.com/xml/impex/inventory/2007-05-31">
+    <inventory-list>
+        <header list-id="huda-inventory">
+            <default-instock>false</default-instock>
+            <description>Inventory for Huda</description>
+            <use-bundle-inventory-only>false</use-bundle-inventory-only>
+            <on-order>true</on-order>
+        </header>
+        <records>
+            <record product-id="the-complete-snowboard-ice">
+                <allocation>55.00</allocation>
+                <allocation-timestamp>2025-07-23T14:12:58</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="the-minimal-snowboard">
+                <allocation>99.00</allocation>
+                <allocation-timestamp>2025-07-23T14:12:58</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="the-complete-snowboard-dawn">
+                <allocation>58.00</allocation>
+                <allocation-timestamp>2025-07-23T14:12:58</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="the-archived-snowboard">
+                <allocation>27.00</allocation>
+                <allocation-timestamp>2025-07-23T14:12:58</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="the-draft-snowboard-powder">
+                <allocation>81.00</allocation>
+                <allocation-timestamp>2025-07-23T14:12:58</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="the-draft-snowboard">
+                <allocation>31.00</allocation>
+                <allocation-timestamp>2025-07-23T14:12:58</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="the-complete-snowboard-electric">
+                <allocation>12.00</allocation>
+                <allocation-timestamp>2025-07-23T14:12:58</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="the-complete-snowboard-sunset">
+                <allocation>53.00</allocation>
+                <allocation-timestamp>2025-07-23T14:12:58</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="the-out-of-stock-snowboard">
+                <allocation>15.00</allocation>
+                <allocation-timestamp>2025-07-23T14:12:58</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="the-hidden-snowboard">
+                <allocation>59.00</allocation>
+                <allocation-timestamp>2025-07-23T14:12:58</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="the-collection-snowboard-hydrogen">
+                <allocation>2.00</allocation>
+                <allocation-timestamp>2025-07-23T14:12:58</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="the-videographer-snowboard">
+                <allocation>49.00</allocation>
+                <allocation-timestamp>2025-07-23T14:12:58</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="selling-plans-ski-wax">
+                <allocation>38.00</allocation>
+                <allocation-timestamp>2025-07-23T14:12:58</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="special-selling-plans-ski-wax">
+                <allocation>29.00</allocation>
+                <allocation-timestamp>2025-07-23T14:12:58</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="sample-selling-plans-ski-wax">
+                <allocation>65.00</allocation>
+                <allocation-timestamp>2025-07-23T14:12:58</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="the-compare-at-price-snowboard">
+                <allocation>26.00</allocation>
+                <allocation-timestamp>2025-07-23T14:12:58</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="the-multi-location-snowboard">
+                <allocation>5.00</allocation>
+                <allocation-timestamp>2025-07-23T14:12:58</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="the-collection-snowboard-oxygen">
+                <allocation>97.00</allocation>
+                <allocation-timestamp>2025-07-23T14:12:58</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="sku-managed-1">
+                <allocation>11.00</allocation>
+                <allocation-timestamp>2025-07-23T14:12:58</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="sku-hosted-1">
+                <allocation>5.00</allocation>
+                <allocation-timestamp>2025-07-23T14:12:58</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="the-collection-snowboard-liquid">
+                <allocation>80.00</allocation>
+                <allocation-timestamp>2025-07-23T14:12:58</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="mouse-hp">
+                <allocation>80.00</allocation>
+                <allocation-timestamp>2025-07-23T14:12:58</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="keyboard">
+                <allocation>100.00</allocation>
+                <allocation-timestamp>2025-07-23T14:12:58</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+            <record product-id="coat-wool">
+                <allocation>100.00</allocation>
+                <allocation-timestamp>2025-07-23T14:12:58</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+            </record>
+        </records>
+    </inventory-list>
+</inventory>
