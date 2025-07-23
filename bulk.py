@@ -79,7 +79,7 @@ def update_shopify_inventory_bulk(inventory_data):
                     if variant.get('sku') in inventory_data:
                         variant_map[variant['sku']] = variant['inventory_item_id']
                 
-                time.sleep(0.5)
+                time.sleep(0.1)
             
             print(f"Found {len(variant_map)} matching variants")
             
